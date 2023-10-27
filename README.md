@@ -1,7 +1,5 @@
 # <strong>Hey, I’m Matt</strong> 👋️
 
-<hr>
-
 <ul>
   <li>👨‍💻 Currently studying Web Development at Le Wagon</li>
   <li>🛠️ Looking to become a Full Time Dev</li>
