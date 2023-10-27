@@ -1,9 +1,13 @@
-👋 Hey, I’m Matt
+# <strong>Hey, I’m Matt</strong> 👋️
 
-- 👨‍💻 Currently studying Web Development at Le Wagon
-- 🛠️ Looking to become a Full Time Dev
-- 🌏 Keen traveller
-- 🏀 Love all things sport
+<hr>
+
+<ul>
+  <li>👨‍💻 Currently studying Web Development at Le Wagon</li>
+  <li>🛠️ Looking to become a Full Time Dev</li>
+  <li>🌏 Keen traveller</li>
+  <li>🏀 Love all things sport</li>
+</ul>
 
 <!---
 berulds/berulds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
